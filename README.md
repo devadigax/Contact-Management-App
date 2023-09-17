@@ -2,6 +2,8 @@
 
 The Contact Management App is a Python-based graphical user interface (GUI) application that allows users to efficiently manage their contact information. This README provides an overview of the app, installation instructions, usage guidelines, and other relevant information.
 
+![App Screenshot](screenshot.png)
+
 ## Table of Contents
 
 - [Features](#features)
